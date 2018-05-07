@@ -17,6 +17,8 @@ gem 'jbuilder', '1.0.2'
 
 gem 'bootsnap', require: false
 
+gem 'rails-ujs'
+
 group :doc do
   gem 'sdoc', '0.3.20', require: false
 end
